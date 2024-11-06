@@ -1,6 +1,6 @@
-# Minimum Polynomial Degree
+# Minimum Polynomial Degree In Asembler x86
 
-An Assembly program developed for the Operating System course at the University of Warsaw. The solution is based on repeatedly subtracting values, which require implementing a manual subtraction algorithm for large integers.
+The solution is based on repeatedly subtracting values, which require implementing a manual subtraction algorithm for large integers.
 
 ## Detailed description
 
